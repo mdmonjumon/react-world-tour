@@ -60,8 +60,7 @@ const Countries = () => {
                         </Country>)
                 }
             </div>
-
-
+            
         </div>
     );
 };
